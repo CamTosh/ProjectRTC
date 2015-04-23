@@ -63,3 +63,14 @@ li:hover {
 .footer {
    clear: both;
 }
+@media only screen and (max-width: 960px) {
+
+}
+@media only screen and (max-width: 768px) {
+
+  #remoteVideosContainer {
+    width:240px;
+    height:480px;
+  }
+  
+}
