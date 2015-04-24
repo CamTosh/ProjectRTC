@@ -11,6 +11,12 @@ li {
     padding: 5px 5px 5px 5px;
 }
 
+video {
+  padding: 6px;
+  padding-right: 6px;
+  padding-left: 6px;
+}
+
 .localStream {
   display: inline-block;
   top: 15px;
